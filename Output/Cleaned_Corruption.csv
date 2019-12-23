@@ -1,0 +1,181 @@
+,Country,CPI Score 2018,Standard error
+0,Denmark,88,2.63
+1,New Zealand,87,2.44
+2,Finland,85,2.74
+3,Singapore,85,1.98
+4,Sweden,85,2.02
+5,Switzerland,85,1.57
+6,Norway,84,2.14
+7,Netherlands,82,2.3
+8,Canada,81,2.16
+9,Luxembourg,81,2.32
+10,Germany,80,2.49
+11,United Kingdom,80,2.03
+12,Australia,77,1.27
+13,Austria,76,1.37
+14,Hong Kong,76,2.47
+15,Iceland,76,4.33
+16,Belgium,75,1.09
+17,Estonia,73,1.44
+18,Ireland,73,3.25
+19,Japan,73,2.85
+20,France,72,1.17
+21,United States of America,71,3.25
+22,United Arab Emirates,70,4.56
+23,Uruguay,70,2.73
+24,Barbados,68,3.12
+25,Bhutan,68,2.86
+26,Chile,67,1.88
+27,Seychelles,66,3.08
+28,Bahamas,65,5.39
+29,Portugal,64,2.14
+30,Brunei Darussalam,63,6.62
+31,Taiwan,63,3.06
+32,Qatar,62,8.08
+33,Botswana,61,2.76
+34,Israel,61,1.49
+35,Poland,60,1.69
+36,Slovenia,60,2.37
+37,Cyprus,59,3.54
+38,Czech Republic,59,2.28
+39,Lithuania,59,2.3
+40,Georgia,58,3.92
+41,Latvia,58,2.95
+42,Saint Vincent and the Grenadines,58,3.39
+43,Spain,58,4.33
+44,Cabo Verde,57,4.22
+45,Dominica,57,2.55
+46,"Korea, South",57,2.74
+47,Costa Rica,56,3.65
+48,Rwanda,56,6.07
+49,Saint Lucia,55,4.27
+50,Malta,54,1.39
+51,Namibia,53,3.72
+52,Grenada,52,3.0
+53,Italy,52,3.29
+54,Oman,52,9.46
+55,Mauritius,51,3.83
+56,Slovakia,50,4.11
+57,Jordan,49,3.21
+58,Saudi Arabia,49,6.34
+59,Croatia,48,2.77
+60,Cuba,47,2.56
+61,Malaysia,47,2.86
+62,Romania,47,3.25
+63,Hungary,46,2.79
+64,Sao Tome and Principe,46,5.05
+65,Vanuatu,46,5.97
+66,Greece,45,2.51
+67,Montenegro,45,4.43
+68,Senegal,45,2.51
+69,Belarus,44,3.92
+70,Jamaica,44,3.37
+71,Solomon Islands,44,7.38
+72,Morocco,43,3.68
+73,South Africa,43,3.8
+74,Suriname,43,3.22
+75,Tunisia,43,3.86
+76,Bulgaria,42,2.41
+77,Burkina Faso,41,1.81
+78,Ghana,41,2.54
+79,India,41,2.42
+80,Kuwait,41,3.47
+81,Lesotho,41,3.67
+82,Trinidad and Tobago,41,5.8
+83,Turkey,41,3.03
+84,Argentina,40,2.7
+85,Benin,40,3.14
+86,China,39,2.02
+87,Serbia,39,2.89
+88,Bosnia and Herzegovina,38,1.86
+89,Indonesia,38,3.35
+90,Sri Lanka,38,1.85
+91,Swaziland,38,4.48
+92,Gambia,37,9.44
+93,Guyana,37,0.77
+94,Kosovo,37,1.49
+95,Macedonia,37,3.38
+96,Mongolia,37,1.94
+97,Panama,37,1.76
+98,Albania,36,1.65
+99,Bahrain,36,1.81
+100,Colombia,36,2.51
+101,Philippines,36,1.55
+102,Tanzania,36,1.83
+103,Thailand,36,2.08
+104,Algeria,35,1.21
+105,Armenia,35,4.0
+106,Brazil,35,4.05
+107,Cote d'Ivoire,35,2.05
+108,Egypt,35,4.59
+109,El Salvador,35,2.59
+110,Peru,35,3.1
+111,Timor-Leste,35,4.81
+112,Zambia,35,1.93
+113,Ecuador,34,3.46
+114,Ethiopia,34,1.52
+115,Niger,34,2.98
+116,Moldova,33,2.13
+117,Pakistan,33,2.06
+118,Vietnam,33,2.84
+119,Liberia,32,3.31
+120,Malawi,32,2.61
+121,Mali,32,1.38
+122,Ukraine,32,2.27
+123,Djibouti,31,5.38
+124,Gabon,31,3.92
+125,Kazakhstan,31,3.6
+126,Maldives,31,2.24
+127,Nepal,31,1.85
+128,Dominican Republic,30,2.57
+129,Sierra Leone,30,2.17
+130,Togo,30,2.35
+131,Bolivia,29,3.6
+132,Honduras,29,2.42
+133,Kyrgyzstan,29,2.37
+134,Laos,29,5.7
+135,Myanmar,29,3.94
+136,Paraguay,29,3.05
+137,Guinea,28,2.67
+138,Iran,28,2.89
+139,Lebanon,28,2.28
+140,Mexico,28,1.83
+141,Papua New Guinea,28,2.47
+142,Russia,28,2.51
+143,Comoros,27,9.0
+144,Guatemala,27,2.56
+145,Kenya,27,1.82
+146,Mauritania,27,2.95
+147,Nigeria,27,2.03
+148,Bangladesh,26,2.63
+149,Central African Republic,26,1.14
+150,Uganda,26,2.13
+151,Azerbaijan,25,4.09
+152,Cameroon,25,2.43
+153,Madagascar,25,2.64
+154,Nicaragua,25,1.13
+155,Tajikistan,25,5.73
+156,Eritrea,24,8.24
+157,Mozambique,23,2.64
+158,Uzbekistan,23,1.93
+159,Zimbabwe,22,2.29
+160,Cambodia,20,2.58
+161,Democratic Republic of the Congo,20,2.13
+162,Haiti,20,2.47
+163,Turkmenistan,20,1.22
+164,Angola,19,1.31
+165,Chad,19,2.94
+166,Congo,19,1.04
+167,Iraq,18,2.63
+168,Venezuela,18,2.13
+169,Burundi,17,2.65
+170,Libya,17,2.57
+171,Afghanistan,16,1.41
+172,Equatorial Guinea,16,2.82
+173,Guinea Bissau,16,1.97
+174,Sudan,16,2.51
+175,"Korea, North",14,1.39
+176,Yemen,14,1.45
+177,South Sudan,13,1.86
+178,Syria,13,1.92
+179,Somalia,10,3.08

@@ -51,7 +51,20 @@ def scrape(browser):
         for thing in grid.find_all(attrs={'class': 'list-name'}):
             try:
                 location = thing.find_all('a')
+                region = location[-1].text
                 country = location[-2].text
+                if region == "United States":
+                    country = "United States of America"
+                elif region == "Canada":
+                    country = "Canada"
+                elif country == "US Virgin Islands":
+                    country = "United States of America"
+                elif country == "French Polynesia":
+                    country = "France"
+                elif country == "British Virgin Islands":
+                    country = "United Kingdom"
+                else:
+                    country = location[-2].text
                 countrys.append(country)
             except Exception:
                 countrys.append("NA")
@@ -115,7 +128,6 @@ def scrape(browser):
         island_attributes_dict[item] = has_attribute_list
 
     #Create a dataframe
-    for key in island_attributes_dict:
     df = pd.DataFrame(island_attributes_dict)
 
     return df
